@@ -8,4 +8,4 @@ function getFullResponseFromAPI(success) {
   });
 }
 
-module.exports = getFullReseFromAPI;
+module.exports = getFullResponseFromAPI;
