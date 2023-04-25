@@ -8,3 +8,4 @@ The following are the projects entailed in this repo:
 - 0x00 ES6 Basics
 - 0x01 ES6 Promise
 - 0x02 ES6 classes
+- 0x03 ES6 Data Manipulation
