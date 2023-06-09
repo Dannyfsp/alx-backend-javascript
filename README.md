@@ -10,3 +10,4 @@ The following are the projects entailed in this repo:
 - 0x02 ES6 classes
 - 0x03 ES6 Data Manipulation
 - 0x04 Typescript
+- 0x05 NodeJS basic
