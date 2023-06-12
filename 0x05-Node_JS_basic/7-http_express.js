@@ -85,6 +85,8 @@ app.get('/students', (_, res) => {
     });
 });
 
-app.listen(port, () => console.log(`Server listenning on port ${port}`));
+app.listen(port, () => {
+  console.log(`Server listenning on port ${port}`);
+});
 
 module.exports = app;
